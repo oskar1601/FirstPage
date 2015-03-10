@@ -1,0 +1,42 @@
+.navbar {
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: white;
+  opacity: .7;
+  border-radius: 25px;
+}
+
+.page-scroll a {
+  font-size: 20px;
+}
+
+.nav > li > a:hover{
+    color: black;
+}
+
+.navbar .navbar-nav {
+    letter-spacing: 4px;
+}
+
+#title_header h1{
+	font-size: 144px;
+	letter-spacing: 10px;
+	color: white ;
+	padding-bottom: 170px;
+}
+
+#text_header{
+	background-color: white; 
+	opacity: .8;
+	font-size: 24px;
+	color: black; 
+	margin-bottom: 200px;
+	padding-bottom: 50px;
+	border-radius: 50%;
+	box-shadow: 9px 9px 5px black;
+}
+#text_header p{
+	font-size: 18px;
+	font-style: italic;
+	text-indent: 15px;
+}
